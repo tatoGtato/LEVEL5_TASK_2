@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="confirm">Confirm</string>
+    <string name="start">Start Quiz</string>
+    <string name="description">After pressing "Start Quiz" you will start the quiz. Selecting the correct answer will make you continue to the next question.</string>
+    <string name="choose">Choose an answer!</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong!</string>
+</resources>
